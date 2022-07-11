@@ -1,0 +1,16 @@
+div {
+    margin: 20px auto;
+    max-width: 400px;
+    padding: 20px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(53, 53, 53);
+    color: #fff;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
